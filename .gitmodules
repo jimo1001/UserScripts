@@ -1,0 +1,3 @@
+[submodule "FastLookupJPandEN"]
+	path = FastLookupJPandEN2
+	url = git@github.com:jimo1001/js-lib-keybinds.git
